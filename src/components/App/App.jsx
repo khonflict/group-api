@@ -23,7 +23,7 @@ function App() {
     try{
       const response = await axios.get(URL, {
         headers: {
-          apikey: "714zDRFAnCFCc96aMvF6g8l3fQVwHFFP"
+          apikey: "MGxnDX5u01lOCfcgbsYmYoNOVPd6cgGo"
         }
       })
       setPair(response.data);
