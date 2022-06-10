@@ -40,7 +40,7 @@ function App() {
       <div className="jumbotron jumbotron-fluid">
         <div className="container">
           <h1 className="display-4 title">Jumbo Exchange</h1>
-          <p className="lead">Returning Big Buck$</p>
+          <p className="lead">Return Big Buck$</p>
         </div>
       </div>
       <br />
