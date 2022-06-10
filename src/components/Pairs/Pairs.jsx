@@ -1,5 +1,4 @@
 import '../App/App.css';
-import { useState } from 'react';
 
 function Pairs({pair}) {
     return (
